@@ -1,1 +1,2 @@
 # An-Application-to-network-design
+The main idea of the project is to implement the basic network design model presented in “An Application to Network Design”. The software will receive the number of nodes, traffic demand between pair of nodes and the unit cost values for the potential links as input and it will generate a network topology, with capacities assigned to the links using the shortest path based fast solution method.
